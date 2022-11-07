@@ -1,0 +1,11 @@
+.app__item {
+  list-style: none;
+}
+
+.app__like:active {
+  color: red
+}
+
+.cursor {
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.app__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media(max-width:450px) {
+  .app__title {
+    font-size: 22px;
+  }
+
+  .app__count {
+    font-size: 16px;
+  }
+}
+
+@media(max-width: 380px) {
+  .app__title {
+    font-size: 19px;
+  }
+
+  .app__count {
+    font-size: 13px;
+  }
+}

@@ -1,0 +1,5 @@
+@media(max-width: 450px) {
+  .app__search-input {
+    font-size: 18px;
+  }
+}
